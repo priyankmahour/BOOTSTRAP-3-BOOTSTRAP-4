@@ -1,0 +1,15 @@
+body{
+  padding-top: 80px;
+}
+.container .jumbotron {
+      background: lightgreen;
+      color: white;
+      padding:80px 50px 80px 50px;
+}
+.navbar{
+        background:black;
+}
+
+.navbar a{
+       color: lightgrey;
+}
